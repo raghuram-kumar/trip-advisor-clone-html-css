@@ -18,10 +18,13 @@ A fully responsive clone of Trip Advisor, created using only HTML and CSS. This 
 
 #Getting Started
 
-To view the project locally, simply clone the repository and open the index.html file in your browser.
+To view the project locally, simply clone the repository and open the `index.html` file in your browser.
 
+```bash
 git clone https://github.com/raghuram-kumar/trip-advisor-clone-html-css.git
+
 cd trip-advisor-clone-html-css
+
 open index.html
 
 #Future Enhancements
